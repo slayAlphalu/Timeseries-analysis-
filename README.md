@@ -1,20 +1,30 @@
 # Timeseries-analysis-
-We try to analyze the time series trend by exploring the dataset AirPassengers.csv 从飞机乘客数据做时间序列分析
+## We try to analyze the time series trend by exploring the dataset AirPassengers.csv 从飞机乘客数据做时间序列分析
 
 
-## Table of contents*
+# Table of contents
+
 ### Q N A
+
 **1.Import Libraries**
+
 **2.Read Data**
+
 **3.Data Transformation to achieve Stationarity**
+
 **4.Log Scale Transformation**
+
 **5.Exponential Decay Transformation**
+
 **6.Time Shift Transformation**
+
 **7.Plotting ACF & PACF**
+
 **8.Building Models**
+
 **9.Prediction & Reverse transformations**
 
-QnA 
+
 **1. What is Time series analysis?**
 A. Time Series is a series of observations taken at specified time intervals usually equal intervals. Analysis of the series helps us to predict future values based on previous observed values. In Time series, we have only 2 variables, time & the variable we want to forecast.
 
