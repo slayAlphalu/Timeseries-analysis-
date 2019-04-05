@@ -3,7 +3,7 @@ We try to analyze the time series trend by exploring the dataset AirPassengers.c
 
 
 ## Table of contents*
-###Q N A
+### Q N A
 **1.Import Libraries**
 **2.Read Data**
 **3.Data Transformation to achieve Stationarity**
@@ -12,7 +12,7 @@ We try to analyze the time series trend by exploring the dataset AirPassengers.c
 **6.Time Shift Transformation**
 **7.Plotting ACF & PACF**
 **8.Building Models**
-**9.Prediction & Revers**e transformations**
+**9.Prediction & Reverse transformations**
 
 QnA 
 **1. What is Time series analysis?**
