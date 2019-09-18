@@ -1,4 +1,4 @@
-# Timeseries-analysis-
+# Timeseries analysis
 ## We try to analyze the time series trend by exploring the dataset AirPassengers.csv 
 ## 从飞机乘客数据做时间序列分析
 
